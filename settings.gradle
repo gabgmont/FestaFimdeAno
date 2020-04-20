@@ -1,0 +1,2 @@
+rootProject.name='Festa Fim de Ano'
+include ':app'
